@@ -8,3 +8,7 @@
 ## Chapter4 操作列表
 
 ## Chapter5 if语句
+
+## Chapter6 字典
+
+## Chapter7 用户输入和while循环
