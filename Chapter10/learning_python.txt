@@ -1,0 +1,3 @@
+In Python you can use Dictionary.
+In Python you can use Array.
+In Python you can simple.
